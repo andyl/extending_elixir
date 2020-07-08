@@ -93,3 +93,6 @@ TBD
 ## Vision
 
 | Carl Hewett | A global infrastrure |
+
+
+![](https://badger.casmacc.net/png0/742404?path=NA)
